@@ -2,312 +2,335 @@
 
 @16  = ~Ким~
 
-@19  = ~Scar's Vase~
-@20  = ~This vase you would recognize anywhere. It's the one you nearly knocked off the barrel it was standing on when you followed Scar's invitation into his very tiny private quarters. 
+@19  = ~Ваза Скара~
+@20  = ~Эту вазу вы узнаете из тысячи. Именно ее вы чуть не столкнули с бочки, когда вы приняли приглашение Скара посетить свое скромное жилье.
 
-The design is of a Baalor Ale Mug, but the vase is pottered gracefully, the ornamentation drawn artistically. It is clearly not meant to actually serve ale, but to function as a piece of decoration.
-How it got into this vendor's possession is the question you have no answer to.~ 
+Она повторяет формой Кружку Баалорского Эля, но она сделана очень изящно и покрыта искусно сделанным орнаментом. Очевидно, что она предназначена не для питья, а для украшения.
+Как она оказалась в руках этого торговца - это вопрос, на который вам еще придется найти ответ.~ 
 @21  = ~Подсвечник~
-@22  = ~This is a candleholder. Its surface shows some dents and scratches you would expect from such an item that has been in use for a while. The metal is shiny but of cheap appearance.~ 
-@23  = ~Golden Plate~
-@24  = ~This plate looks delicate and surely belonged to a greater set once.~
+@22  = ~Это подсвечник. На его поверхности можно заметить вмятины и царапины, что можно ожидать от предмета, которым раньше часто пользовались. Металл блестит, но выглядит дешево.~ 
+@23  = ~Золотая тарелка~
+@24  = ~Эта изысканная тарелка наверняка когда-то была частью набора.~
 @25  = ~Тело Скара~
-@26  = ~This is Scar's body. It looks remarkably fresh and healthy, considering the way Scar died and the time that has passed since. Priests must have worked on him, before Angelo took over the Flaming Fist and forced them to stop.~
-@27  = ~Transport Receipt~
-@28  = ~This is the receipt Chester and Hung gave you. It gives the transport information about the extra crate Duntrin moved to the warehouse, the one you suspect Scar to be in.~
-@29  = ~Donnerjan~ 
-@30  = ~Donnerjan's Second-Hand Shop~
-@31  = ~Kelder~
-@32  = ~Hung~
-@33  = ~Chester~
-@34  = ~Duntrin~
-@35  = ~I am a man of my word.~ [%tutu_var%SCAR04]
+@26  = ~Это тело Скара. Оно выглядит на удивление свежим и здоровым, если учитывать причину смерти Скара и количество времени, прошедшего с момента смерти. Скорее всего за ним следили жрецы, пока Анджело не захватил Пламенный Кулак и не заставил их прекратить уход.~
+@27  = ~Транспортная квинтанция~
+@28  = ~Это квинтанция, которую вам дали Честер и Ханг. В ней содержится информация о дополнительной коробке, которую Дантрин переместил на склад. Вы подозреваете, что Скар находится именно в этой коробке.~
+@29  = ~Доннерджан~ 
+@30  = ~Магазинчик подержанных вещей Доннерджана~
+@31  = ~Келдер~
+@32  = ~Ханг~
+@33  = ~Честер~
+@34  = ~Дантрин~
+@35  = ~Я - человек слова.~ [%tutu_var%SCAR04]
 
-@37  = ~The Shadow Thieves send their regards.~ [%tutu_var%HUSAM03]
-@38  = ~There are too many, retreat!~ [%tutu_var%HUSAM02]
+@37  = ~Теневые Воры шлют привет.~ [%tutu_var%HUSAM03]
+@38  = ~Их слишком много, отступаем!~ [%tutu_var%HUSAM02]
 
-@41  = ~Bartus~
+@41  = ~Бартус~
 
-@43  = ~Lina~
+@43  = ~Лина~
 
-@45  = ~Quentin~
+@45  = ~Квентин~
 
-@49  = ~Meilla~
-@50  = ~Jana~
-@51  = ~Cragmor~
-@52  = ~Meilla's cat~
-@53  = ~This is Meilla's cat Whisper. Probably as old as Miella, he seems to be comfortable where he is, taking a nap.~
-@54  = ~Letter~
-@55  = ~Dear Meilla, 
+@49  = ~Мейла~
+@50  = ~Джана~
+@51  = ~Крэгмор~
+@52  = ~Кот Мейлы~
+@53  = ~Это кот Мейлы, Шепот. Кажется, что он настолько же стар, как и Мейла. Ему удобно на своем месте, где он постоянно спит.~
+@54  = ~Письмо~
+@55  = ~Дорогая Мейла, 
 
-it was kind of you to remember my birthday, though I don't really enjoy them much, anymore. I've been thinking of you. I wonder how you are. I wonder what would have happened, if I'd have given it a chance. I know what I was, Meilla, and I know what passed between us, and I'm sorry. Could we meet? Could we try again? I await your reply.
+было любезно с твоей стороны вспомнить про мой день рождения, хотя я больше не очень наслаждаюсь им. Я думал о тебе. Интересно, как ты сейчас живешь. Я думал о том, что могло случится, если бы я дал нам шанс. Я знаю, чем я был, Мейла, и знаю, что было между нами. Мне жаль. Мы можем встретиться? Попробовать снова? Я буду ждать ответа.
 
-Yours in love, 
-Dhugal~
+Твой любящий, 
+Дюгал~
 
-@57  = ~Harlot~
-@58  = ~Summer Umbrella~
-@59  = ~Schvantz~ /* This name is taken out of the game, from one of the courtensan's dialogues */
-@60  = ~Lars~
-@61  = ~Ariane~ 
-@62  = ~Hello, friend.~ [GENMG06]
-@63  = ~Gunther~ 
-@64  = ~'Ello, friend.~ [GENFG04]
-@65  = ~Old Mab~
-@66  = ~Yes, friend?~ [GENFG05]
-@67  = ~Miss Isobel Whitley~
-@68  = ~Yeah, mate?~ [GENMG12] 
-@69  = ~Pete~
+@57  = ~Шлюха~
+@58  = ~Саммер Амбрелла~
+@59  = ~Шванц~ /* This name is taken out of the game, from one of the courtensan's dialogues */
+@60  = ~Ларс~
+@61  = ~Ариана~ 
+@62  = ~Привет, дружище.~ [GENMG06]
+@63  = ~Гюнтер~ 
+@64  = ~Здорово, друг.~ [GENFG04]
+@65  = ~Мэб~
+@66  = ~Да, друг?~ [GENFG05]
+@67  = ~Леди Изобел Витли~
+@68  = ~Да, приятель?~ [GENMG12] 
+@69  = ~Пит~
 
-@71  = ~This is Hull's long sword that he gave you after your... farewells in Candlekeep. It's a normal long sword, and not too well-tended, but it's strong and well balanced.
+@71  = ~Этот меч вы получили от Халла после вашего... прощания в Кендлкипе. Это обычный длинный меч, немного поношенный, но крепкий и сбалансированный.
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Damage:  1D8
-THACO:  +1 bonus
-Damage type:  slashing
-Weight: 4
-Speed Factor: 5
-Proficiency Type: Large Sword
-Type:  1-handed
-Not Usable By:
- Druid
- Cleric
- Mage
-~
-@72  = ~This is Hull's long sword that he gave you after your... farewells in Candlekeep. It's a normal long sword, and not too well-tended, but it's strong and well balanced.
+THAC0: +1 улучшение
+Урон: 1d8
+Тип урона: рубящий
+Фактор скорости: 5
+Оружейный навык: длинный меч
+Тип: одноручное
+Вес: 4
+Требования: сила 6
+Не могут использовать:
+ Друид
+ Маг
+ Священник~
+@72  = ~Этот меч вы получили от Халла после вашего... прощания в Кендлкипе. Это обычный длинный меч, немного поношенный, но крепкий и сбалансированный.
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Damage:  1D8 (slashing)
-THACO:  +1 bonus
-Speed Factor: 5
-Proficiency Type: Long Sword
-Type: One-handed
-Weight: 4
-~
+THAC0: +1 улучшение
+Урон: 1d8
+Тип урона: рубящий
+Фактор скорости: 5
+Оружейный навык: длинный меч
+Тип: одноручное
+Требования: сила 6
 
-@79  = ~Molly~
+Вес: 4~
 
-@81  = ~Centeol's Journal~
-@82  = ~This is the journal of Centeol, the woman who was changed into a creature of horrid appearance. It may be a good source for those who want to learn about her past.
+@79  = ~Молли~
 
-"...we talked again. I met him near the House of the Talisman. He was continuing his researches. Oh, how I wish I could help him. I don't care what others would think. I just want his dreams to come true. But...it's fine. At least I can look at him when he's studying his tomes. That should be enough. He would never leave Tanova for me..."
+@81  = ~Дневник Сентеол~
+@82  = ~Это дневник Сентеол, женщины, превращенной в ужасного вида существо. Он будет хорошим источником для тех, кто захочет узнать о её прошлом,.
 
-"...he had an argument with the queen. I don't know why; I don't know... but Tanova. She didn't come. She left him alone. My poor beloved... I'll try to support him. I'm not sure how, but I will. I promise."
+"...Мы снова поговорили. Я встретилась с ним у дома Талисмана. Он продолжает свои исследования. Ох, как бы я хотела помочь ему. Плевать, что подумают остальные. Я просто хочу, чтобы его мечты осуществились. Но... ничего страшного. Хотя бы я могу смотреть на него, пока он изучает свои фолианты. Этого мне хватит. Он никогда не бросит Танову ради меня..."
 
-"He met the queen again. They didn't argue this time. That's good. I don't want to see him alone. Upset. Distanced."
+"...Он разругался с королевой. Не знаю, почему. Не знаю... Но Танова, она не пришла. Она оставила его одного. Мой бедный возлюбленный... Я попытаюсь поддержать его. Не знаю как, но я это сделаю. Обещаю."
 
-"She - Tanova - left him again. Alone. He spent his whole day ALONE. She didn't even ask if he wants to talk. She doesn't deserve him."
+"Он снова встречался с королевой. В этот раз они не спорили. Хорошо. Я не хочу видеть его одиноким. Расстроенным. Отрешенным."
 
-"...she should DIE... She's like a leech..."
+"Она - Танова - снова оставила его. Одного. Он провел весь день ОДИН. Она даже не спросила, хочет ли он поговорить. Она его не заслуживает."
 
-"...I WILL do it..."
+"...Она должна УМЕРЕТЬ... Она как пиявка..."
 
-"I CAN do it."
+"...Я сделаю это..."
 
-Some pages are missing; the next entry was made two months later.
+"Я СМОГУ это сделать."
 
-"How could he?! I love him so much... she deserved her death. I did everything I could to help him. But he CURSED me! WHY?! But this will end... This...this will end... But I hear them... I hear the eight-legged horror creep inside... they never stop..."
+В дневнике не хватает нескольких страниц. Следующая запись датируется двумя месяцами позже.
 
-"...no matter how much time will pass, I can never forget..."
+"Как он мог?! Я так его любила... Она заслуживала смерти. Я сделала все, что могла, чтобы помочь ему. Но он ПРОКЛЯЛ меня! ПОЧЕМУ?! Но это закончится... Это... Закончится... Но я слышу их... Слышу, как восьмилапые чудовища ползают внутри... Они никогда не останавливаются..."
 
-"No one will see me. I will stay alone. Alone with my memories. They never leave. They never die."
+"...Сколько бы времени не прошло, я никогда не забуду..."
 
-"Will this end?"
+"Никто меня не найдет. Я останусь одна. Вместе с воспоминаниями. Они никогда не исчезнут. Никогда не умрут."
 
-"...I beg for silence! I just want some peace! Please..."
+"Это когда-нибудь закончится?"
 
-"I'm dead. I'm dead to Faerыn. I'm dead to him."
+"...Я молю о тишине! Я хочу немного покоя! Прошу..."
 
-"...but I can't forget..."
+"Я мертва. Мертва для Фаэруна. Мертва для него."
 
-That line is the last one.
+"...Но я не могу забыть..."
 
-Weight: 1 lbs.~
+Это последняя запись в книге.
 
-@84  = ~Dark phantasm~
-@85  = ~Phantasm's Mark~
+Вес: 1~
 
-@87  = ~Ool-Garias~
-@88  = ~Is'samya~
-@89  = ~Shady character~
+@84  = ~Темный фантом~
+@85  = ~Метка фантома~
 
-@91  = ~The Great Zudini~
+@87  = ~Ул-Гариас~
+@88  = ~Ис'самья~
+@89  = ~Сомнительная личность~
 
-@93  = ~Dawn Priest Blaise~
-@94  = ~Sister Sapientia~
-@95  = ~Dawn Priest Blaise's Book~
-@96  = ~Dawn Priest Blaise's Book
+@91  = ~Великий Зудини~
 
-This small, leather-bound book contains the prayers and daily offices of a follower of Oghma, the patron of scholarship. As well as the morning and evening services, it details the rituals and meditations involved in such things as beginning a scholarly treatise, comparing translations or corrupted copies, and annotating texts. It is quite ordinary for its kind except for the illustrations: they glow with lapis lazuli and gold leaf and include among other images the tools of an illuminator's trade, or, growing up the side of a page of dry prose, a blossoming pea-vine.~
-@97  = ~Sister Sapientia's Letter~
-@98  = ~Sister Sapientia's Letter
+@93  = ~Жрец Рассвета Блейс~
+@94  = ~Сестра Сапиентия~
+@95  = ~Книга Жреца Рассвета Блейса~
+@96  = ~Книга Жреца Рассвета Блейса
 
-To Dawn Priest Blaise, of the Song of the Morning Temple, East of Beregost, from Sister Sapientia of the Temple of Oghma, in Candlekeep.
+Эта небольшая книга в кожанной обложке содержит в себе молитвы и ежедневные обряды последователей Огмы, покровителя ученых. Помимо утренних и вечерних служб в ней описаны ритуалы и медитации, связанные с такими вещами, как начало научного трактата, сверка переводов или испорченных копий и создание аннотаций. Среди других похожих книг она выделается иллюстрациями: книга сияет лазурью и золотом, а среди других рисунках в ней запечатлены, например, инструменты иллюстратора и цветущая винная лоза, прорастающая из строк сухой поэзии.~
+@97  = ~Письмо Сестры Сапиентии~
+@98  = ~Письмо Сестры Сапиентии
 
-14 Tarsakh: My dear love,
+Жрецу Рассвета Блейсу из Храма Утренней Песни к востоку от Берегоста, от Сестры Сапиентии из храма Огмы в Кендлкипе.
 
-I thought of you this morning while weeding the kitchen garden. The sun cleared the Keep's walls and lit up the dew, making the young spinach and the staked peas rich and strange...
+14, Тарсак: Любовь моя,
 
+Я думала о тебе, когда утром ухаживала за кухонным садом. Солнце очистило стены крепости и осветило грядки, придав молодому шпинату и фасоли такой благородный и странный вид...
 
-22 Tarsakh: There was a plague of frogs in the refectory this morning, and much wailing and flapping of robes as Honoured Scholars fled the hopping menace. I fear that Pink Lightning and Gorion's child are behind this, somehow. I should be outraged at the indignity, but as I write a frog sits on my page, green as new moss and no larger than my thumb-nail. Now, regarding your thoughts on metempsychosis...
 
+22, Тарсак: Этим утром трапезную заполонили лягушки, и много криков и хлопков было слышно от почтенных мудрецов, пока они бежали он прыгучей напасти. Боюсь, в этом как-то замешаны Розовая Молния и дитя Горайона. Я должна быть в ярости от такого непотребства, но пока я пишу это письмо на моем пергаменте сидит лягушка, зеленая, как свежий мох, и маленькая, как мой ноготь. А теперь насчет твоих мыслей по поводу метемпсихозиса...
 
-28 Tarsakh: We have been working lamb skins into parchment for the past week. The smell is atrocious and my hands ache. Thank you for the pens! I have the blackest of black ink...
 
+28, Тарсак: Мы всю неделю делали пергамент из овечьих шкур. Запах просто ужасен, и у меня болят руки. Спасибо за перья! У меня есть густейшие чернила...
 
-1 Mirtul: Has it been forty years already? Forty years since you asked Candlekeep for a clean copy of Sanderly's Aubades? It is the blink of an eye, my love.
 
-With the roads so dangerous of late I do not know when I can send this, but I will strive to find a reliable messenger.
+1, Миртул: Прошло уже сорок лет? Сорок лет назад ты попросил у Кендлкипа чистую копию Утренних Серенад Сандерли? Для меня прошло всего мгновение, любовь моя.
 
-As ever yours,
+Дороги в последнее время небезопасны, и я не знаю, когда смогу оправить тебе эти письма, но я постараюсь найти надежного посыльного.
 
-Sister Sapientia~ 
+Всегда твоя,
 
-@100  = ~Ender Sai~
+Сестра Сапиентия~ 
 
-@102  = ~I'll talk to you, if you wish.~ [LATHAN11]
-@103  = ~Good to see you, friend.~ [LATHAN09]
-@104  = ~I'm not usually prone to violence, but then I don't usually deal with the likes of you.~ [LATHAN17]
-@105  = ~Dai~
-@106  = ~How do you do.  A pleasant day, yes?~ [GNOMEF04]
-@107  = ~Oh, you're fine enough, I suppose.~ [GNOMEF01]
-@108  = ~Don't you start bullying; I'll not have it.~ [GNOMEF02]
-@109  = ~Kitty~
-@110  = ~Kitty and Dai's Rough Draft~
-@111  =  ~Behold: Childe of Candlekeep~
+@100  = ~Эндер Сай~
 
-@113  = ~Hanaly~
-@114  = ~Ghost~
-@115  = ~Yvonne~
-@116  = ~Hanaly's Pipe~
-@117  = ~This is the pipe given to you by Hanaly the Ghost.  Though it is old and battered, the scent of fine tobacco still lingers in the bowl and stem.~
-@118  = ~Ghost Stone~
-@119  = ~This small stone was given to you by the ghosts Hanaly and Yvonne when you reunited them.  It has been worn smooth and featureless by the water's flow, and feels comfortable when held in the hand.~ 
-@120  = ~This small stone was given to you by the ghosts Hanaly and Yvonne when you reunited them.  It lay long in the river, smoothed and obscured by the water's flow.  When warmed in the hand, it will briefly share its property of obscuration.
+@102  = ~Я поговорю с тобой, если хочешь.~ [LATHAN11]
+@103  = ~Приятно видеть тебя, друг.~ [LATHAN09]
+@104  = ~Насилием меня не напугаешь, но с такими как ты я обычно дел не веду.~ [LATHAN17]
+@105  = ~Дай~
+@106  = ~Как поживаешь? Хороший денёк, да?~ [GNOMEF04]
+@107  = ~О, с тобой всё в порядке, я думаю.~ [GNOMEF01]
+@108  = ~Не пугай меня, я этого не люблю!~ [GNOMEF02]
+@109  = ~Китти~
+@110  = ~Черновой набросок Китти и Дая~
+@111  =  ~Узрите: Дитя Кендлкипское~
 
-STATISTICS:
+@113  = ~Ханали~
+@114  = ~Призрак~
+@115  = ~Ивонна~
+@116  = ~Трубка Ханали~
+@117  = ~Эту трубку вам дал призрак Ханали. Она уже старая и потрепанная, но из нее до сих пор доносится запах хорошего табака.~
+@118  = ~Камень призрака~
+@119  = ~Этот камушек вы получили от призраков Ханали и Ивонны после того, как вы снова свели их вместе. От текущей воды он стал полностью гладким, и его приятно держать в руке.~ 
+@120  = ~Этот камушек вы получили от призраков Ханали и Ивонны после того, как вы снова свели их вместе. Он долго пролежад в воде, и он полностью сглажен течением. Если согреть его теплом рук, то он поделится своей незаметносью с владельцем.
 
-Special:  The user becomes Blurred.  This ability may be used once per day.~
-@121  = ~This small stone was given to you by the ghosts Hanaly and Yvonne when you reunited them.  It lay long in the river, smoothed and obscured by the water's flow.  When warmed in the hand, it will briefly share its property of obscuration.
+ПАРАМЕТРЫ:
 
-STATISTICS:
+Особое свойство: Размытие
+  Длительность: 20 раундов
+  Область действия: на себя
+  Число зарядов: 1 раз в день
+  Эффект: Улучшение +3 к классу защиты и улучшение +1 ко всем спасброскам.~
+@121  = ~Этот камушек вы получили от призраков Ханали и Ивонны после того, как вы снова свели их вместе. Он долго пролежад в воде, и он полностью сглажен течением. Если согреть его теплом рук, то он поделится своей незаметносью с владельцем.
 
-Special:  The user becomes Blurred.  
-Charges: 10~
+ПАРАМЕТРЫ:
 
-@122  = ~This is the unfinished draft of a light novel loosely based on your recent adventures.  The prose is purple, the humour is broad, and the plot moves at an entertaining speed.
+Особое свойство: Размытие
+  Длительность: 20 раундов
+  Область действия: на себя
+  Число зарядов: 10
+  Эффект: Улучшение +3 к классу защиты и улучшение +1 ко всем спасброскам.~
 
-In a good light, it is not *entirely* unlike what actually happened.~
+@122  = ~Это неоконченный черновик романа, основанного на ваших недавних приключениях. Пурпурная проза, незамысловатый юмор и сюжет, развивающийся с приятной скоростью.
 
-@124  = ~Dead Girl~
-@125  = ~This is the corpse of a dead young woman. She is wearing a fine wooven coat and the remainings of ornaments of dried flower arrangements that look somehow traditional.~
-@126  = ~Necromancer's Diary~
-@127  =  ~This is the necromancer's diary. It contains confirmation of everything he said about his motives, and a lot of self-pity and sorrow. 
+Если не смотреть критично, то описанное в книге *не полностью* противоречит реальности.~
 
-He seems to be determined not to spread the dark arts he went into, and states this at several places, "not to spoil others to the dark path I went on". There is no writing about all the knowledge the necromancer must have gained concerning the resurrection of long lost persons. 
+@124  = ~Мертвая девушка~
+@125  = ~Это тело мертвой девушки. Она одета в качественный шерстяной плащ и иссохшие сплетенные между собой цветы. Похоже, это чья-то традиция.~
+@126  = ~Дневник некроманта~
+@127  = ~Это дневник некроманта. В нем содержатся доказательства всего того, что он рассказал вам о своих мотивах, а так же скорбь и сожаление.
 
-Whatever the results of his research, he seems to be determined to take it with him into the grave.~
-@128  = ~Bottle with blood~
-@129  = ~This bottle contains blood of a cow.~
-@130  = ~This bottle contains blood of a cat.~
-@131  = ~This bottle contains blood of a girl.~
-@132  = ~This bottle contains blood of a nymph.~
-@133  = ~Letter of Mrs. Thirsty~
-@134  = ~This is the letter Mrs. Thirsty wrote to farmer Bruns. It has several pages, all lettered in a small, steady hand writing. By glancing on it, you notice the word "Berta" at least five times on each page.~
-@135  = ~Fresh Beef Steaks~ 
-@136  = ~These are the steaks of Berta, Mrs. Thirsty's cow. The meat looks excellent, although you are not sure what to do with it - other than eating it, of course.
+Похоже, он твердо намерен не распространять темные знания, которые долгое время изучал, и в нескольких местах утверждает, что "не станет заманивать других на темный путь, по которому пошел сам". В книге нигде не описаны те знания, которые собрал некромант, пока исследовал воскрешение пропавших жителей.
 
-When wholly consumed, this meat restores 9 hit points to the person.~
-@137  = ~Berta~ 
-@138  = ~Mrs. Sutherland~ 
-@139  = ~Trevor~ 
-@140  = ~Kitty~ 
-@141  = ~Necromancer~ 
-@142  = ~Susan~ 
-@143  = ~Mrs. Thirsty~ 
-@144  = ~Butcher~ 
-@145  = ~Mourning Mother~ 
-@146  = ~Beth~ 
+Какими бы не были результаты его исследований, он намерен забрать их в могилу.~
+@128  = ~Бутылка с кровью~
+@129  = ~В этой бутылке содержится кровь коровы.~
+@130  = ~В этой бутылке содержится кровь кошки.~
+@131  = ~В этой бутылке содержится кровь девушки.~
+@132  = ~В этой бутылке содержится кровь нимфы.~
+@133  = ~Письмо от миссис Ферсти~
+@134  = ~Это письмо, которое миссис Ферсти написала фермеру Бруну. Это несколько страниц текста, написанных мелким и уверенным почерком. Пробежав письмо взглядом, вы можете сказать, что слово "Берта" встречается в нем как минимум пять раз на каждой странице.~
+@135  = ~Свежая говяжья вырезка~ 
+@136  = ~Это вырезка из Берты, коровы миссис Ферсти. Мясо выглядит изумительно, но вы не можете придумать, что с ним сделать - кроме того, как съесть, конечно же.
 
-@148  = ~Thee Oldde Magyck: Volume II~ 
-@149  = ~This is a very old looking magic book. It is written in a language long forgotten, and seems to explain magic runes and signs unknown to you. It might be of great interest to someone studying magic on a very high level.~ 
-@150  = ~Ioun stone~ 
-@151  = ~This is a magical ioun stone.~ 
+Если его съесть, то мясо восстановит 9 пунктов здоровья.~
+@137  = ~Берта~ 
+@138  = ~Миссис Сазерленд~ 
+@139  = ~Тревор~ 
+@140  = ~Китти~ 
+@141  = ~Некромант~ 
+@142  = ~Сьюзан~ 
+@143  = ~Миссис Ферсти~ 
+@144  = ~Мясник~ 
+@145  = ~Горюющая мать~ 
+@146  = ~Бет~ 
 
-@153  = ~Curse-Removing Soap~
-@154  = ~Mistress Mirrorshade's Best Curse-Removing Soap
+@148  = ~Старинное чаротворство: Том II~ 
+@149  = ~Это очень древняя магическая книга. Она написана на давно забытом языке, и описывает волшебные руны и знаки, которые вам неизвестны. Она будет очень интересна тем, кто изучает магию на очень высоком уровне.~ 
+@150  = ~Камень юун~ 
+@151  = ~Это магический камень юун.~ 
 
-This bottle of liquid soap was concocted to an old gnomish recipe handed down by Gellana Mirrorshade's mother, the cleric Gollumi Myrnickle. The pungent purple lotion, mixed from herbs, holy water, blessed ashes, and the tallow of high-minded sheep, will cleanse the user of some minor curses and spiritual afflictions.
+@153  = ~Мыло от проклятий~
+@154  = ~Лучшее мыло от проклятий госпожи Мирроршейд
 
-CAUTION: May put hairs on your chest, or remove them.
+Эта бутылка жидкого мыла была сварена по древнему гномскому рецепту, которому Геллану Мирроршейд научила её мать, священница Голлуми Мирникл. Пахучий фиолетовый лосьон, смешанный с травами, святой водой, освященной золой и жиром праведной овцы - эта смесь способна очистить тело от малых проклятий и душевных недугов. Одной бутылки хватает на десять использований.
 
-Abilities:
+ОСТОРОЖНО: Может вызвать рост или выпадение волос на груди.
 
-Remove Curse x 10~
+ПАРАМЕТРЫ:
+
+Длительность: постоянно
+Область действия: на себя
+Эффект: Снятие проклятия
+
+Вес: 1~
 
 /* Note to translators: "Left" in the sense of "leaving behind */
-@157  = ~Left~ 
-@158  = ~Letter~ 
-@159  = ~The Letter Left Behind~ 
-@160  = ~I had to leave. I'm sorry. But I'll be back.~
+@157  = ~Левый~ 
+@158  = ~Письмо~ 
+@159  = ~Оставленное письмо~ 
+@160  = ~Я должен уйти. Прости. Но я вернусь.~
 
-@162  = ~Alec~ 
+@162  = ~Алек~ 
 
-@164  = ~Arlene~
+@164  = ~Арлин~
 
-@166  = ~Della May~
+@166  = ~Делла Мэй~
 
-@168  = ~Guard~ 
+@168  = ~Стражник~ 
 
-@170  = ~This is the ioun stone Thalantyr gave you in the one private moment you shared. It raises the intelligence of the wearer by 2.
+@170  = ~Этот камень юун подарил вам Талантир, когда вы провели время наедине. Он повышает интеллект обладателя на 2.
 
-STATISTICS:
+ПАРАМЕТРЫ:
  
+Особенности при экипировке:
+ - Интеллект: +2
 
-Special: Intelligence increased by 2
+Вес: 2~
 
-Weight: 2~
+@172  = ~Микала~ 
+@173  = ~Плащ защиты от льда~
+@174  = ~Плащ защиты от льда
 
-@172  = ~Mikala~ 
-@173  = ~Cloak of Ice Protection~
-@174  = ~Cloak of Ice Protection
+Об этом плаще мало что известно. Кто-то говорит, что он был сшит из седых волос человека, которого очаровали сирены, но материал плаща слишком мягкий и теплый, чтобы эта история была правдой.
 
-Not much is known about this cloak. Some say it was woven from the white hair of the men charmed by the syrenes, but the material is far too soft and warm for this tale to be true.
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Cold resistance:  +50%
-Weight: 3
-~
-@175  = ~The sarcophagus serves as the final resting place of a young woman. Someone took great effort in lining the interior of the sarcophagus with silk cushions.~
+Особенности при экипировке:
+ - Сопротивление холоду: +50%
 
-@176  = ~Chantelle~
-@177  = ~Magnus~
-@178  = ~White Knights-Errand~
-@179  = ~This is a white knights-errand of a chess set.~
-@180  = ~This is a white knights-errand of a chess set. It is delicately carved out of ivory, and carries the name of the carpenter who made it for you as a very tiny signature in Thorass letters on it's bottom: 'Mehmel'.
-The carpenter sweared to you it's in the same style as of the great ancient Master Aljhumal.~
-@181  = ~Old Chess Piece~
-@182  = ~This is a bishop of a chess set.~
-@183  = ~This is a white bishop of a chess set. It is delicately carved out of ivory, and carries the name of the carpenter who made it for you as a very tiny signature in Thorass letters on it's bottom: 'Mehmel'.
-The carpenter sweared to you it's in the same style as of the great ancient Master Aljhumal.~
-@184  = ~Magic Chess Piece~
-@185  = ~This is a bishop of a chess set.~
-@186  = ~This is a white bishop of a chess set. Master Thalantyr enchanted it with the spell 'Blessing'.
+Вес: 3~
+@175  = ~Этот саркофаг служит последним пристанищем для молодой женщины. Кто-то приложил немало усилий для того, чтобы обить внутреннюю сторону саркофага шелковыми подушками.~
 
-STATISTICS:
+@176  = ~Шантелль~
+@177  = ~Магнус~
+@178  = ~Белый странствующий рыцарь~
+@179  = ~Это фигура белого странствующего рыцаря из шахматного набора.~
+@180  = ~Это фигура белого странствующего рыцаря из шахматного набора. Она аккуратно сделана из слоновой кости и несет на себе подпись изготовившего ее плотника в виде крошечной подписи "Мехмель" на торассоком языке на основании.
+Плотник поклялся, что она сделана в том же стиле, в котором работал великий древний мастер Альджумал.~
+@181  = ~Старая шахматная фигура~
+@182  = ~Это фигура белого слона из шахматного набора.~
+@183  = ~Это фигура белого слона из шахматного набора. Она аккуратно сделана из слоновой кости и несет на себе подпись изготовившего ее плотника в виде крошечной подписи "Мехмель" на торассоком языке на основании.
+Плотник поклялся, что она сделана в том же стиле, в котором работал великий древний мастер Альджумал.~
+@184  = ~Магическая шахматная фигура~
+@185  = ~Это фигура слона из шахматного набора.~
+@186  = ~Это фигура белого слона из шахматного набора. Мастер Талантир зачаровал ее заклинанием "Благословение".
 
-Special: Casts Blessing if used (10 charges)~
-@187  = ~This is a white bishop of a chess set. Master Thalantyr enchanted it with the spell 'Blessing'.
+ПАРАМЕТРЫ:
 
-STATISTICS:
+Особое свойство: Благословение
+  Длительность: 6 раундов
+  Область действия: группа
+  Число зарядов: 10
+  Эффект: Поднимает боевой дух всех дружественных существ на одну единицу, а также они получают улучшение +1 к THAC0 и урону.~
+@187  = ~Это фигура белого слона из шахматного набора. Мастер Талантир зачаровал ее заклинанием "Благословение".
 
-Special: Casts Blessing if used (once per day)~
-@188  = ~Piece of Ivory~
-@189  = ~This is a uge ivory tooth.~
-@190  = ~This is an old, uge ivory tooth. It still looks complete and valuable, despite the fact that you found it between the ship wreck's clutterings.~
-@191  = ~Master Mehmel~
+Параметры:
+
+Особое свойство: Благословение
+  Длительность: 6 раундов
+  Область действия: группа
+  Число зарядов: 1 раз в день
+  Эффект: Поднимает боевой дух всех дружественных существ на одну единицу, а также они получают улучшение +1 к THAC0 и урону.~
+@188  = ~Кусок слоновой кости~
+@189  = ~Это старый большой слоновий бивень.~
+@190  = ~Это старый большой слоновий бивень. Он выглядит нетронутым и ценным, несмотря на то, что вы нашли его на месте кораблекрушения.~
+@191  = ~Мастер Мехмель~
 
 
 /* New for v2.0 */
@@ -315,72 +338,73 @@ Special: Casts Blessing if used (once per day)~
 @192  = ~Женщина~
 @193  = ~Мужчина~
 
-@194  = ~Centeol's Wand~
-@195  = ~It is said that this wand was given to the Spider Lady after her magical powers were discovered. She used it to protect her companions and allies from daggers in the dark, but it seems that after all the incidents, after her heart was broken, the wand was given new abilities.
-The wand is cold and sticky, but the very top of it glows in a soft and warm light.
+@194  = ~Жезл Сентеол~
+@195  = ~Согласно легенде этот жезл был подарен Паучьей леди после того, когда она открыла в себе магические силы. Она использовала его для того, чтобы защитить своих друзей и соратников во тьме. Но после всего того, что случилось, после того, как ее сердце было разбито, жезл получил новые силы.
+Жезл холодный и липкий на ощупь, а его навершие светится мягким теплым светом.
 
-STATISTICS:
+ПАРАМЕТРЫ:
 
-Wand provides 25% resistance to piercing damage. The target is also ignored by all kinds of spiders - even if target attacks them. Both effects last 60 seconds.
-Charges: 10
-Weight: 1~
-@196  = ~Wisdom Increase +1~
-@197  = ~Wisdom has been raised by 1 permanently~
-@198  = ~I wish I had my old tobacco pipe.~ [%tutu_var%HALFL04]
-@199  = ~Halfling Messenger~
-@200  = ~Bartleby's Letter Case~
-@201  = ~Bartleby's Letter Case
+Особое свойство: Защита от колющего урона: +25%; Пауки не обращают внимания на цель, даже если она нападет на них
+  Длительность: 10 раундов
+  Область действия: одно существо
+  Число зарядов: 10
 
-A box of letters taken from the body of the messenger Bartleby Quickfoot.  It is sturdy, lined with oiled silk, and built to keep its fragile contents safe from damp, cold, and the terrifying stygian blackness of midnight.~
-@202  = ~Bartleby's Ghost~
-@203  = ~Barkis~
-@204  = ~Garrick's Bloodstone Amulet~
-@205  = ~Garrick's Bloodstone Amulet
+Вес: 1~
+@196  = ~Мудрость увеличена на 1~
+@197  = ~Показатель мудрости был навсегда увеличен на 1~
+@198  = ~Жаль, моя старая трубочка не со мной.~ [%tutu_var%HALFL04]
+@199  = ~Полурослик-посыльный~
+@200  = ~Чехол для писем Бартлби~
+@201  = ~Чехол для писем Бартлби
 
-A gift to Garrick from a lady friend.  It is quite distinctly unmagical - however he seems quite fond of it, and often runs it through his fingers while humming a lilting tune.~
-@206  = ~Letter to Miss Aspen~
-@207  = ~Miss Maple Willow Aspen
-c/- The Blade and Stars Inn
-Baldur's Gate
+Эта коробка с письмами лежала на теле посыльного Бартлби Шустронога. Она крепкая, обшита промасленным шелком и изготовлена таким образом, чтобы сохранить свой хрупкий груз от воды, холода и ужасающей черноты ночи.~
+@202  = ~Призрак Бартлби~
+@203  = ~Баркис~
+@204  = ~Амулет Гаррика с кровавиком~
+@205  = ~Амулет Гаррика с кровавиком
+
+Подарок Гаррику от подруги. Амулет очевидно не зачарован, но Гаррику он очень ценен, и он часто проводит по нему пальцами, напевая веселую мелодию.~
+@206  = ~Письмо леди Аспен~
+@207  = ~Мапл Виллу Аспен
+Адрес: Гостиница Клинок и Звезды, Врата Балдура
  
-Since first I saw you in your bower, straight and tall, your hair lit to flame by the autumn sun, I have adored you as the daisy loves the dawn.
+С тех пор, как я увидел вас в тени деревьев, статную и высокую, с волосами, поцелованными осенним солнцем, я радуюсь вам, как маргаритка радуется рассвету.
  
-Our bosky joys might grow sturdy as an oak and sweet as apples.  I wear the willow without you.  Do not leaf me in barren solitude.
+Стебли наших радостей могут пустить корни и вырасти такими же крепкими, как дуб, и сладкими, как плоды яблони. Без вас я поникаю, как ива. Не оставляйте меня на голой ветви одиночества.
  
-Your Devoted Admirer,
+Ваш преданный поклонник,
  
-Woodrow duBois~
-@208  = ~Письмо от фанатки~
+Вудроу Дюбуа~
+@208  = ~Письмо от поклонницы~
 @209  = ~От Карнатии Карнифекс, прозванной Мясником, барду из таверны Горящий Волшебник в Берегосте.
  
 Мой дорогой Гаррик,
  
-May I call you Garrick?  I hope that's not too forward.  I doubt you will remember me, just one adventurer among many as I am, and I could not stay to chat after the unpleasantness with those paladins.  But I wanted you to know how deeply I admired your rendition of "Gathering Pease-Blossoms" and afterwards, the smoothness of your modulation into Gilraen's "Frolique in A Major" as I broke a table over Sir Reynald's head was simply sublime.  Marvellous.  Extraordinary.  
+Я могу называть тебя Гаррик? Надеюсь, это не слишком грубо. Ты вряд ли помнишь меня, одну из многих путешественниц, и я даже не смогла поговорить с тобой после недоразумения с теми паладинами. Но я хочу, чтобы ты знал, как глубоко я оценила твое исполнение "Сбора мироцвета" и, после этого, идеально плавный переход в "Фролик в А мажоре", когда я разбила стол о голову сэра Рейнальда. Чудесно. Превосходно.
  
-Enclosed is a small token of my esteem, a ring looted from the grave of an ancient prince and guaranteed curse-free!  It would please me if you wore my colour on your finger.
+К письму я прикладываю небольшой знак своей признательности, кольцо из могилы древнего принца, оно точно не проклятое! Мне бы очень хотелось, чтобы ты носил мой цвет на своем пальце.
  
-Come away with me.  Be *my* bard.  I will shower you in jewels and silk and string your harp with the guts of my enemies.  (Your fingers are so nimble and sensitive, and your sense of rhythm so exquisite that I find myself wondering how it would be if - but that is a question for another time.)
+Уходи со мной. Будь моим бардом. Я одарю тебя драгоценностями и шелками и изготовлю струны для твоей арфы из внутренностей моих врагов. (Твои пальцы такие ловкие и чувствительные, а твоё чувство ритма настолько изысканно, что я не могу не задавать мыслью - а что, если... но это разговор для другого раза.)
  
-Simply travel eastwards away from the Sword Coast and I will hear of your coming.  And I will find you.
+Просто отправляйся на восток от Побережья Меча, и я услышу твои шаги. И найду тебя.
  
-Your humble fan,
+Твоя скромная поклонница,
  
-Carnatia~
-@210  = ~Letter From a Dungeoneer~
-@211  = ~To Nesiara Rille, 
-of the Friendly Arm Inn
+Карнатия~
+@210  = ~Письмо от грабителя подземелий~
+@211  = ~Несиаре Рилль в гостиницу Дружеская Рука
 
-My Darling Nessie
+Моя дорогая Несси,
 
-I've got a lead on a good haul.  Forget about Ulcaster School: old books are boring.  I found an old merchant who sold me a family heirloom - it was pricey but I could just feel the magic sizzling off it and couldn't pass it by.  Poor fellow, if he'd only known what he was selling... but that is not my problem.
+Я наткнулся на хорошую наводку. Забудь о Школе Улькастера. Древние книги - это скучно. Я встретил старого торговца, который продал мне свую семейную реликвию - пришлось выложить немаленькую сумму, но я почувствовал магию и не смог пройти мимо. Бедный старик, если бы он только знал, что продал... но меня это не касается.
 
-Now I have the wardstone to Durlag's Tower!  I'll just toddle off south, clean out that heap of stone, profit, and set up shop at the Inn with the proceeds.
+Теперь у меня есть охранный камень из Башни Дурлага! Я просто пройдусь на юг, вычищу эту груду камней, наварюсь на этом и открою магазин в гостинице на заработанные деньги.
 
-What could possibly go wrong?
+Что может пойти не так?
 
-I dream of holding you in my arms,
+Мечтаю заключить тебя в обьятия,
 
-Your Pootsie.~
+Твой любимый.~
 @212  = ~Письмо Фаербиду~
 @213  = ~Фаербиду Эльфоподобному из города Берегост
 
@@ -399,54 +423,54 @@ Your Pootsie.~
 Я твоя.
 
 М~
-@214  = ~Letter to Skie Silvershield~
-@215  = ~From Lord Eddard Silvershield, Marquis of Dumley, to the Right Honourable Skie Silvershield, at her estate in the City of Baldur's Gate,
+@214  = ~Письмо для Ски Сильвершилд~
+@215  = ~От лорда Эддарда Сильвершилда достопочтенной Ски Сильвершилд в ее поместье в городе Врата Балдура.
  
-Greetings and Felicitations, my Dearest Sister.
+Прими мои приветствие и поздравления, дражайшая сестра.
  
-I trust that you have been attending well to your books and your dance lessons, and that your first Season ended with appropriate grandeur.  
+Надеюсь, что ты ответственно относишься к чтению и танцам, и твой дебют завершился с достойным величием.
 
-My own journey goes well.  With the roads so dangerous, trade goods are much sought after and our simple wagons are often feted by the towns we visit - most bemusing.  We travel quite carefully, avoid the main Trade Routes, and have had not a bit of trouble.  The Forest Animals are quite unafraid, often walking straight up to our Cavalcade, and my sketchbook grows very fat.  I enclose this likeness of a Fox, which I saw lounging by the bole of a tree in the small hours.  It had a louche, piratical air, and stared at me for a good five minutes before slouching off.  I have suffered from a cold since leaving the city, alas - sleeping wrapped in a single blanket under the bare and chilly stars is a Romantic Prospect, but trying to the Constitution of one unused to it.  The pot of Myrnickle's Balsam you gave me has been most helpful.  
+Мой путь идет без проишествий. Когда на дорогах так опасно, торговцев ждут больше обычного, и города встречают наши простые телеги с праздником - очень занятное зрелище. Мы движемся осторожно и избегаем главных торговых путей, и пока не попали ни в какие неприятности. Лесные животные здесь довольно непуганы, и они часто подходят прямо к нашей кавалькаде, так что количество зарисовок в моем альбоме растет очень быстро. Я приложу к письму изображение лисицы, что нежилась под ветвями дерева в предрассветный час. Она источала зловещий, пиратский дух, и не спускала с меня глаз добрые пять минут, пока не уковыляла прочь. С самого отъезда из города меня мучает простуда. К сожалению, хоть сон под холодным светом звезд с одним одеялом - это очень романтично, но такая сцена требует очень много сил от неподготовленного человека. Горшочек с бальзамом Мирникл, который ты мне дала, мне очень помогает.
  
-How odd it is that words to you come so easily on Paper, when they whistle away in my throat when I stand before my Little Sister; when I take refuge in the promptings of an Etiquette Book, inquire prettily as to your well-being, and give my due obeisances to our Father.  But this cold morning it is between us and the paper, and so I give you - a Fox, a Terrible Cold, and this - 
+Как странно, что мне так просто обращаться к тебе на бумаге, но те же самые слова застревают в горле, когда я стою прямо перед своей младшей сестрой; когда я прячусь за строками Книги этикета, вежливо интересуюсь о твоем доброполучии и оказываю почтение нашему отцу. Но этим холодным утром мы одни, и я хочу поведать тебе о лисице, ужасной простуде и об этом...
  
-When our Mother died it was difficult for me.  I missed her very much and, in my distress, fled the Bonds of Family when I should have striven to tie them tighter around us three.  I was a Fool - and I still am a Fool, to my woe.  I ask you not to inquire as to my reasons for leaving Town; you would not like the answer.
+Мне было тяжело, когда умерла наша мама. Мне ее так не хватало, и я, к своему сожалению, опустил семейные узы, когда должен был сжать их и крепче связать вокруг нас троих. Я был дураком, и остался им, к своему горю. Я прошу тебя не спрашивать, почему я починул город. Ответ тебя расстроит.
  
-Regarding this Musical Friend of whom they speak, all I can say is that I hope the fellow treats you with the Respect and Courtesy that you deserve, Skyling, and pray to Sune that you weather the storms ahead.  Love is an Awkward Beast, as our family knows well.
+Касательно твоего музицирующего друга, о котором ходит столько разговоров. Все, что я могу сказать - я буду надеяться, что он будет оказывать тебе уважение и уход, которого ты заслуживаешь, Ски, и молиться Суни, чтобы ты выдержала грядущие бури. Любовь - это неуклюжий зверь, и наша семья это прекрасно знает.
  
-My regards to Father and Step-Mama Brilla.  I am to them, as always, a Dutiful Son.
+Передавай от меня поклон отцу и мачехе Брилле. Я всегда буду для них покорным сыном.
 
-Your Loving Brother,
+Твой любящий брат,
 
-Eddard~
-@216  = ~Letter From a Happy Customer~
-@217  = ~To: Madame Alyth Elendara
-From: Master Stephan Re'Cap
+Эддард~
+@216  = ~Письмо от счастливого клиента~
+@217  = ~Кому: госпоже Алит Элендаре
+От: господина Стефана Ре'Капа
  
-My dear lady Alyth,
+Моя дорогая леди Алит,
  
-My master, Magus Davaeorn, has once again allowed me the pleasure of writing to you to thank you for the latest shipment of fine sweetmeats and wine from Calimshan and to submit our order for next month. Living apart, as we do, from civilization makes me quite grateful not only for such refined fare as you routinely provide, but the opportunity to correspond with such an accomplished and beauteous lady. I have enjoyed reading the personal messages and receiving the small gifts you include with your shipping invoices. The packet of 'candy kisses', for example, was quite a nice treat (is it too saucy of me to inquire if the real ones are as tasty?). As supplier of my victuals, I insist you replenish my supply immediately.
+Мой господин, маг Даваэорн, снова позволил мне написать письмо с благодарностями за вашу последнюю поставку вкуснейших сладостей и калимшанского вина и приложить его к заказу на следующий месяц. Жизнь вдали от цивилизации заставляет меня наслаждаться не только вашими изысканными товарами, которые вы регулярно нам поставляете, но и возможностью общения с такой успешной и прекрасной дамой. Мне очень нравится получать от вас личные письма и небольшие подарки, которые вы прикладываете к счетам за поставки. Мешочек со "сладкими поцелуями", например, был очень вкусным (не будет ли дерзостью с моей стороны спросить, похож ли этот вкус на настоящие поцелуи?). Как поставщик моей провизи, я требую немедленно пополнить мои запасы.
  
-In response to your question (or, should I say, your invitation) in your last private note: I would very much appreciate the opportunity to visit your establishment, and yourself, in person. There is only the matter of Magus Davaeorn's permission. I humbly beg your indulgence as my Master is not the most permissive of employers and is unlikely to allow me to leave here. Perhaps you might send a note requesting personal attention to some matter from one of our staff. Then I might more easily broach the subject with him. The chance of seeing you, one way or another, shall enhance my persuasiveness, I am sure.
- 
-Ever yours,
- 
-Stephan~
-@218  = ~Letter to Silence~
-@219  = ~Silence in the Sanctuary
+Отвечаю на ваш вопрос (или мне стоит сказать - приглашение) из последней личной записки: я ни за что не упущу возможности посетить ваше заведение и вас лично. Единственное, что мне нужно - это разрешение от мага Даваэорна. Я сердечно прошу прощение, потому что мой господин - не самый добродушный наниматель, и он вряд ли позволит мне покинуть это место. Возможно, вы сможете отправить письмо с просьбой прислать кого-нибудь из нашего отряда. Тогда мне будет проще подойти к нему с этим вопросом. Возможность вас увидеть несомненно повысит мою убедительность.
 
-
-BARKIS IS WILLING~
+Всегда ваш,
+ 
+Стефан~
+@218  = ~Письмо к Сайленс~
+@219  = ~Сайленс из Пристанища
 
 
-@220  = ~Cordelia~
-@221  = ~Camryn~
-@222  = ~Yes?~ [TIShf]
-@223  = ~Tamah~
-@224  = ~What do you want?~ [TITamf]
-@225  = ~Book Bag~
-@226  = ~This is a finely decorated leather book bag. It was given by Camryn the Scribe to <CHARNAME> as a going-away present when <PRO_HESHE> left Candlekeep. It is just the right size to carry books.~
-@227  = ~Letter to Tamah~
+БАРКИС ЖЕЛАЕТ~
+
+
+@220  = ~Корделия~
+@221  = ~Кэмрин~
+@222  = ~Да?~ [TIShf]
+@223  = ~Тамах~
+@224  = ~Чего ты хочешь?~ [TITamf]
+@225  = ~Сумка для книг~
+@226  = ~Это богато украшенная сумка для книг. <CHARNAME> получил ее в качестве прощального подарка от писца Кэмрина, когда он покинул Кендлкип. Она как раз подходит для хранения книг.~ ~Это богато украшенная сумка для книг. <CHARNAME> получила ее в качестве прощального подарка от писца Кэмрина, когда она покинула Кендлкип. Она как раз подходит для хранения книг.~
+@227  = ~Письмо Тамах~
 @228  = ~Dear Tamah,
 Here, in the silence of my office, I am missing the scratch of your pen, your gentle cough, and the squeak of your chair as you shift. All the small noises which signaled the glorious fact that you, dear you, were nearby me. I did not even have to raise my eyes to know that your delicate little fingers were creating beauty so close to me. I could even stretch out my foot under the table that we shared and brush against your graceful ankles. Those days were heaven; I thought I might have them forever... Only in my reverie, Tamah. Only with my face streaming with tears.
 --C.~
@@ -529,227 +553,233 @@ Ever Your Friend,
 А вы вообразите, что рассказ
 О безответной страсти прочитали,
 И посочувствуйте моей печали.~
-@246  = ~Памфилия к Амфилантусу~ //"from Памфилия к Амфилантусу: 4" by Lady Mary Wroth
-@247  = ~When I beeheld the Image of my deere
-With greedy lookes mine eyes would that way bend,
-Fear, and desire did inwardly contend;
-Feare to bee mark’d, desire to drawe still neere,
-And in my soule a speritt wowld apeer,
-Which boldnes waranted, and did pretend
-To bee my genius, yett I durst nott lend
-My eyes in trust wher others seemed soe cleere,
-Then did I search from whence this danger ’rose,
-If such unworthynes in mee did rest
-As my sterv’d eyes must nott with sight bee blest;
-When jealousie her poyson did disclose;
-Yett in my hart unseense of jealous eye
-The truer Image shall in triumph lye.
+@246  = ~Сонет 81~ //"from Памфилия к Амфилантусу: 4" by Lady Mary Wroth
+@247  = ~О поцелуй, который дан устам -
+Плодам румяным найденного Рая,
+Ты льешь на сердце сладостный бальзам,
+Немые губы счастью научая.
+
+О поцелуй, ты, души обручая,
+Природы волшебством дарован нам,
+И чтобы гимн пропеть таким дарам,
+Как был бы рад не покладать пера я!
+
+Но скромница меня лишает права:
+Ей высшая нужна, иная слава...
+Душа в огне! Я не могу молчать!
+Хочу, утратив разум, быть счастливым:
+Меня способна сделать молчаливым
+Лишь поцелуя твоего печать.
 
 (Корешок этой книги выглядит толще обычного.)~
-@248  = ~When I beeheld the Image of my deere
-With greedy lookes mine eyes would that way bend,
-Fear, and desire did inwardly contend;
-Feare to bee mark’d, desire to drawe still neere,
-And in my soule a speritt wowld apeer,
-Which boldnes waranted, and did pretend
-To bee my genius, yett I durst nott lend
-My eyes in trust wher others seemed soe cleere,
-Then did I search from whence this danger ’rose,
-If such unworthynes in mee did rest
-As my sterv’d eyes must nott with sight bee blest;
-When jealousie her poyson did disclose;
-Yett in my hart unseense of jealous eye
-The truer Image shall in triumph lye.~
+@248  = ~О поцелуй, который дан устам -
+Плодам румяным найденного Рая,
+Ты льешь на сердце сладостный бальзам,
+Немые губы счастью научая.
+
+О поцелуй, ты, души обручая,
+Природы волшебством дарован нам,
+И чтобы гимн пропеть таким дарам,
+Как был бы рад не покладать пера я!
+
+Но скромница меня лишает права:
+Ей высшая нужна, иная слава...
+Душа в огне! Я не могу молчать!
+Хочу, утратив разум, быть счастливым:
+Меня способна сделать молчаливым
+Лишь поцелуя твоего печать.~
 @249  = ~Сонет 18~
-@250  = ~Shall I compare thee to a summer's day?
-Thou art more lovely and more temperate:
-Rough winds do shake the darling buds of May,
-And summer's lease hath all too short a date:
-Sometime too hot the eye of heaven shines,
-And often is his gold complexion dimmed,
-And every fair from fair sometime declines,
-By chance, or nature's changing course untrimmed:
-But thy eternal summer shall not fade,
-Nor lose possession of that fair thou ow'st,
-Nor shall death brag thou wander'st in his shade,
-When in eternal lines to time thou grow'st,
-So long as men can breathe, or eyes can see,
-So long lives this, and this gives life to thee.
+@250  = ~Сравню ли с летним днем твои черты?
+Но ты милей, умеренней и краше.
+Ломает буря майские цветы,
+И так недолговечно лето наше!
+То нам слепит глаза небесный глаз,
+То светлый лик скрывает непогода.
+Ласкает, нежит и терзает нас
+Своей случайной прихотью природа.
+А у тебя не убывает день,
+Не увядает солнечное лето.
+И смертная тебя не скроет тень -
+Ты будешь вечно жить в строках поэта.
+Среди живых ты будешь до тех пор,
+Доколе дышит грудь и видит взор!
 
 (Корешок этой книги выглядит толще обычного.)~
-@251  = ~Shall I compare thee to a summer's day?
-Thou art more lovely and more temperate:
-Rough winds do shake the darling buds of May,
-And summer's lease hath all too short a date:
-Sometime too hot the eye of heaven shines,
-And often is his gold complexion dimmed,
-And every fair from fair sometime declines,
-By chance, or nature's changing course untrimmed:
-But thy eternal summer shall not fade,
-Nor lose possession of that fair thou ow'st,
-Nor shall death brag thou wander'st in his shade,
-When in eternal lines to time thou grow'st,
-So long as men can breathe, or eyes can see,
-So long lives this, and this gives life to thee.~
-@252  = ~Song to Celia~ //"Song: to Celia" by Ben Jonson
-@253  = ~Drinke to me, onely, with thine eyes,
-And I will pledge with mine;
-Or leave a kisse but in the cup,
-And Ile not looke for wine.
-The thirst, that from the soule doth rise,
-Doth aske a drinke divine:
-But might I of Jove’s Nectar sup,
-I would not change for thine.
-I sent thee, late, a rosie wreath,
-Not so much honoring thee,
-As giving it a hope, that there
-It could not withered bee.
-But thou thereon did’st onely breath,
-And sent’st it back to mee:
-Since when it growes, and smells, I sweare,
-Not of it selfe, but thee.
+@251  = ~Сравню ли с летним днем твои черты?
+Но ты милей, умеренней и краше.
+Ломает буря майские цветы,
+И так недолговечно лето наше!
+То нам слепит глаза небесный глаз,
+То светлый лик скрывает непогода.
+Ласкает, нежит и терзает нас
+Своей случайной прихотью природа.
+А у тебя не убывает день,
+Не увядает солнечное лето.
+И смертная тебя не скроет тень -
+Ты будешь вечно жить в строках поэта.
+Среди живых ты будешь до тех пор,
+Доколе дышит грудь и видит взор!~
+@252  = ~К Селии~ //"Song: to Celia" by Ben Jonson
+@253  = ~До дна очами пей меня,
+     Как я тебя - до дна.
+Иль поцелуй бокал, чтоб я
+     Не возжелал вина.
+Мечтаю я испить огня,
+     Напиться допьяна,
+Но не заменит, жизнь, моя,
+     Нектар тебя сполна.
+Тебе послал я в дар венок
+     Душистый, словно сад.
+Я верил - взятые тобой
+     Цветы не облетят.
+Вздох подарив цветам, венок
+     Вернула ты назад.
+Теперь дарить не свой, а твой
+     Он будет аромат.
 
 (Корешок этой книги выглядит толще обычного.)~
-@254  = ~Drinke to me, onely, with thine eyes,
-And I will pledge with mine;
-Or leave a kisse but in the cup,
-And Ile not looke for wine.
-The thirst, that from the soule doth rise,
-Doth aske a drinke divine:
-But might I of Jove’s Nectar sup,
-I would not change for thine.
-I sent thee, late, a rosie wreath,
-Not so much honoring thee,
-As giving it a hope, that there
-It could not withered bee.
-But thou thereon did’st onely breath,
-And sent’st it back to mee:
-Since when it growes, and smells, I sweare,
-Not of it selfe, but thee.~
+@254  = ~До дна очами пей меня,
+     Как я тебя - до дна.
+Иль поцелуй бокал, чтоб я
+     Не возжелал вина.
+Мечтаю я испить огня,
+     Напиться допьяна,
+Но не заменит, жизнь, моя,
+     Нектар тебя сполна.
+Тебе послал я в дар венок
+     Душистый, словно сад.
+Я верил - взятые тобой
+     Цветы не облетят.
+Вздох подарив цветам, венок
+     Вернула ты назад.
+Теперь дарить не свой, а твой
+     Он будет аромат.~
 @255  = ~Она волшебной красотой...~ //"She Walks in Beauty": by Lord Byron
-@256  = ~I. Она волшебной красотой
-Чарует словно ночью звезды
-И яркий свет с кромешной тьмой,
-В глазах ее сливаясь в слезы,
-Так нежен, но сей блеск святой
-Под Солнцем растворится в грезы.
+@256  = ~Она идет во всей красе -
+Светла, как ночь ее страны.
+Вся глубь небес и звезды все
+В ее очах заключены,
 
-II. Чем тени гуще, свет темнее,
-Но во всем мире благодать
-Коснеться  всякого пигмея.
-А может все тепло являть
-Ее лицо, что всех милее,
-Что мысли будет просветлять
-И душу грешную согреет.
+Как солнце в утренней росе,
+Но только мраком смягчены.
+Прибавить луч иль тень отнять -
+И будет уж совсем не та
 
-III.Тысячи радостных мгновений
-Запечатлят ее черты.
-Истины прошлых поколений
-Взбурлят вдруг в молодой крови:
-Великий ум в сто крат презреннее
-Сердца полного любви.
+Волос агатовая прядь,
+Не те глаза, не те уста
+И лоб, где помыслов печать
+Так безупречна, так чиста.
+
+А этот взгляд, и цвет ланит,
+И легкий смех, как всплеск морской,
+Все в ней о мире говорит.
+Она в душе хранит покой
+
+И если счастье подарит,
+То самой щедрою рукой!
 
 (Корешок этой книги выглядит толще обычного.)~
-@257  = ~I. Она волшебной красотой
-Чарует словно ночью звезды
-И яркий свет с кромешной тьмой,
-В глазах ее сливаясь в слезы,
-Так нежен, но сей блеск святой
-Под Солнцем растворится в грезы.
+@257  = ~Она идет во всей красе -
+Светла, как ночь ее страны.
+Вся глубь небес и звезды все
+В ее очах заключены,
 
-II. Чем тени гуще, свет темнее,
-Но во всем мире благодать
-Коснеться  всякого пигмея.
-А может все тепло являть
-Ее лицо, что всех милее,
-Что мысли будет просветлять
-И душу грешную согреет.
+Как солнце в утренней росе,
+Но только мраком смягчены.
+Прибавить луч иль тень отнять -
+И будет уж совсем не та
 
-III.Тысячи радостных мгновений
-Запечатлят ее черты.
-Истины прошлых поколений
-Взбурлят вдруг в молодой крови:
-Великий ум в сто крат презреннее
-Сердца полного любви.~
+Волос агатовая прядь,
+Не те глаза, не те уста
+И лоб, где помыслов печать
+Так безупречна, так чиста.
+
+А этот взгляд, и цвет ланит,
+И легкий смех, как всплеск морской,
+Все в ней о мире говорит.
+Она в душе хранит покой
+
+И если счастье подарит,
+То самой щедрою рукой!~
 @258  = ~Взгляд~ //"The Look": by Sara Teasdale 
-@259  = ~Стрэфон целовал весной,
-Робин — в листопад.
-Колин посмотрел — и всё... —
-Мог не целовать.
+@259  = ~Стрефон целовал весной,
+Робин - в листопад,
+Колин - никогда вообще,
+Только бросил взгляд.
 
-Стрэфон в смехе позабыт,
-Робин изгнан прочь.
-Но, а Колин!.. взгляд-магнит
-Манит день и ночь.
-
-(Корешок этой книги выглядит толще обычного.)~
-@260  = ~Стрэфон целовал весной,
-Робин — в листопад.
-Колин посмотрел — и всё... —
-Мог не целовать.
-
-Стрэфон в смехе позабыт,
-Робин изгнан прочь.
-Но, а Колин!.. взгляд-магнит
-Манит день и ночь.~
-@261  = ~I Loved You First~ //"Monna Innominata (I loved you first)" by Christina Georgina Rossetti
-@262  = ~I loved you first: but afterwards your love,
-Outsoaring mine, sang such a loftier song
-As drowned the friendly cooings of my dove.
-Which owes the other most? My love was long,
-And yours one moment seemed to wax more strong;
-I loved and guessed at you, you contrued me
-And loved me for what might or might not be—
-Nay, weights and measures do us both a wrong.
-For verily love knows not ‘mine’ or ‘thine’;
-With separate ‘I’ and ‘thou’ free love has done,
-For one is both and both are one in love:
-Rich love knows nought of ‘thine that is not mine’;
-Both have the strength and both the length thereof,
-Both of us, of the love which makes us one.
+Стрефон позабыт шутя,
+Робин - под смех тоже,
+Колина ж с лобзаньем взгляд.
+По сей час меня тревожит.
 
 (Корешок этой книги выглядит толще обычного.)~
-@263  = ~I loved you first: but afterwards your love,
-Outsoaring mine, sang such a loftier song
-As drowned the friendly cooings of my dove.
-Which owes the other most? My love was long,
-And yours one moment seemed to wax more strong;
-I loved and guessed at you, you contrued me
-And loved me for what might or might not be—
-Nay, weights and measures do us both a wrong.
-For verily love knows not ‘mine’ or ‘thine’;
-With separate ‘I’ and ‘thou’ free love has done,
-For one is both and both are one in love:
-Rich love knows nought of ‘thine that is not mine’;
-Both have the strength and both the length thereof,
-Both of us, of the love which makes us one.~
-@264  = ~When to her Lute Corinna Sings~ //by Thomas Campion
-@265  = ~When to her lute Corinna sings,
-Her voice revives the leaden strings,
-And doth in highest notes appear,
-As any challenged echo clear;
-But when she doth of mourning speak,
-E'en with her sighs, the strings do break,
-And as her lute doth live or die,
-Led by her passion, so must I:
-For when of pleasure she doth sing,
-My thoughts enjoy a sudden spring,
-But if she doth of sorrow speak,
-E'en from my heart the strings do break.
+@260  = ~Стрефон целовал весной,
+Робин - в листопад,
+Колин - никогда вообще,
+Только бросил взгляд.
+
+Стрефон позабыт шутя,
+Робин - под смех тоже,
+Колина ж с лобзаньем взгляд.
+По сей час меня тревожит.~
+@261  = ~Сначала полюбила я тебя~ //"Monna Innominata (I loved you first)" by Christina Georgina Rossetti
+@262  = ~Сначала полюбила я тебя, а ты потом,
+Взмыв надо мной, пел о любви сильнее,
+Воркуя нежно мне, как голубь за окном.
+Так у кого из нас любовь была вернее?
+Тогда слова твои звучали непреложно,
+Любила я тебя и не смогла понять,
+Ты то любил, чем я не в силах стать.
+Но нам любовь измерить невозможно.
+У истиной любви нет ни «мое», ни «ваше».
+С раздельным «я» и «вы» ее не сохранить.
+Теперь у нас с тобой, все что мое – то наше.
+И мы вдвойне сильней, благодаря любви.
+Нас двое, в чувство мы вложили силы каждый.
+Две части целым стать должны однажды.
 
 (Корешок этой книги выглядит толще обычного.)~
-@266  = ~When to her lute Corinna sings,
-Her voice revives the leaden strings,
-And doth in highest notes appear,
-As any challenged echo clear;
-But when she doth of mourning speak,
-E'en with her sighs, the strings do break,
-And as her lute doth live or die,
-Led by her passion, so must I:
-For when of pleasure she doth sing,
-My thoughts enjoy a sudden spring,
-But if she doth of sorrow speak,
-E'en from my heart the strings do break.~
+@263  = ~Сначала полюбила я тебя, а ты потом,
+Взмыв надо мной, пел о любви сильнее,
+Воркуя нежно мне, как голубь за окном.
+Так у кого из нас любовь была вернее?
+Тогда слова твои звучали непреложно,
+Любила я тебя и не смогла понять,
+Ты то любил, чем я не в силах стать.
+Но нам любовь измерить невозможно.
+У истиной любви нет ни «мое», ни «ваше».
+С раздельным «я» и «вы» ее не сохранить.
+Теперь у нас с тобой, все что мое – то наше.
+И мы вдвойне сильней, благодаря любви.
+Нас двое, в чувство мы вложили силы каждый.
+Две части целым стать должны однажды.~
+@264  = ~Когда Коррина, лютню взяв, поёт~ //by Thomas Campion
+@265  = ~Когда Коррина, лютню взяв, поёт,
+Свинцовым струнам голос жизнь даёт,
+К высоким нотам радостно летит,
+Как эхо чистое в тиши звенит.
+Но заведёт речь скорбную она -
+От вздоха лопнет чуткая струна.
+Страстям её покорен лютни звук,
+И я - то жив, то умираю вдруг.
+Когда об удовольствиях поёт,
+Весна мне в мыслях сразу предстаёт;
+Но молвит слово грустное она -
+И лопнет в сердце у меня струна.
+
+(Корешок этой книги выглядит толще обычного.)~
+@266  = ~Когда Коррина, лютню взяв, поёт,
+Свинцовым струнам голос жизнь даёт,
+К высоким нотам радостно летит,
+Как эхо чистое в тиши звенит.
+Но заведёт речь скорбную она -
+От вздоха лопнет чуткая струна.
+Страстям её покорен лютни звук,
+И я - то жив, то умираю вдруг.
+Когда об удовольствиях поёт,
+Весна мне в мыслях сразу предстаёт;
+Но молвит слово грустное она -
+И лопнет в сердце у меня струна.~
 @267  = ~Страстное послание к его возлюбленной~ //by Christopher Marlowe
 @268  = ~Люби меня и будь со мной,
 И испытаем мы вдвоём
@@ -811,16 +841,42 @@ E'en from my heart the strings do break.~
 Всё будет для души твоей.
 Всё будет для тебя одной.
 Люби меня и будь со мной.~
-@270  = ~The Old Arcadia~ //by Sir Philip Sidney
-@271  = ~Yonder, my Claius, Urania lighted; the very horse, methought, bewailed to be so disburdened: and as for thee, poor Claius, when thou wentest to help her down, I saw reverence and desire so divide thee, that thou didst at one instant both blush and quake, and instead of bearing her wert ready to fall down thyself. There she sat, vouchsafing my cloak (then most gorgeous) under her: at yonder rising of the ground she turned herself, looking back towards her wonted abode, and because of her parting, bearing much sorrow in her eyes, the lightsomeness whereof had yet so natural a cheerfulness that it made even sorrow seem to smile; at that turning she spake to us all, opening the cherry of her lips, and Lord how greedily mine ears did feed upon the sweet words she uttered! And here she laid her hand over thine eyes, when she saw the tears springing in them, as if she would conceal them from other, and yet herself feel some of thy sorrow. But woe is me, yonder, yonder, did she put her foot into the boat, at that instant, as it were, dividing her heavenly beauty between the earth and the sea. But when she was embarked, did you not mark how the winds whistled and the seas danced for joy, how the sails did swell with pride, and all because they had Urania? O Urania, blessed be thou Urania, the sweetest fairness, and fairest sweetness!
+@270  = ~Тайна любви~ //by Sir Philip Sidney
+@271  = ~Словом высказать нельзя
+Всю любовь к любимой.
+Ветер движется, скользя,
+Тихий и незримый.
+
+Я сказал, я все сказал,
+Что в душе таилось.
+Ах, любовь моя в слезах,
+В страхе удалилась.
+
+А мгновение спустя
+Путник, шедший мимо,
+Тихо, вкрадчиво, шутя
+Завладел любимой.
 
 (Корешок этой книги выглядит толще обычного.)~
-@272  = ~Yonder, my Claius, Urania lighted; the very horse, methought, bewailed to be so disburdened: and as for thee, poor Claius, when thou wentest to help her down, I saw reverence and desire so divide thee, that thou didst at one instant both blush and quake, and instead of bearing her wert ready to fall down thyself. There she sat, vouchsafing my cloak (then most gorgeous) under her: at yonder rising of the ground she turned herself, looking back towards her wonted abode, and because of her parting, bearing much sorrow in her eyes, the lightsomeness whereof had yet so natural a cheerfulness that it made even sorrow seem to smile; at that turning she spake to us all, opening the cherry of her lips, and Lord how greedily mine ears did feed upon the sweet words she uttered! And here she laid her hand over thine eyes, when she saw the tears springing in them, as if she would conceal them from other, and yet herself feel some of thy sorrow. But woe is me, yonder, yonder, did she put her foot into the boat, at that instant, as it were, dividing her heavenly beauty between the earth and the sea. But when she was embarked, did you not mark how the winds whistled and the seas danced for joy, how the sails did swell with pride, and all because they had Urania? O Urania, blessed be thou Urania, the sweetest fairness, and fairest sweetness!~
-@273  = ~The Decameron: Prince Galehaut~ //from "The Decameron" by Giovanni Boccaccio
-@274  = ~As often, most gracious ladies, as, taking thought in myself, I mind me how very pitying you are all by nature, so often do I recognize that this present work will, to your thinking, have a grievous and a weariful beginning, inasmuch as the dolorous remembrance of the late pestiferous mortality, which it beareth on its forefront, is universally irksome to all who saw or otherwise knew it. But I would not therefore have this affright you from reading further, as if in the reading you were still to fare among sighs and tears. Let this grisly beginning be none other to you than is to wayfarers a rugged and steep mountain, beyond which is situate a most fair and delightful plain, which latter cometh so much the pleasanter to them as the greater was the hardship of the ascent and the descent; for, like as dolour occupieth the extreme of gladness, even so are miseries determined by imminent joyance. This brief annoy (I say brief, inasmuch as it is contained in few pages) is straightway succeeded by the pleasance and delight which I have already promised you and which, belike, were it not aforesaid, might not be looked for from such a beginning. And in truth, could I fairly have availed to bring you to my desire otherwise than by so rugged a path as this will be I had gladly done it; but being in a manner constrained thereto, for that, without this reminiscence of our past miseries, it might not be shown what was the occasion of the coming about of the things that will hereafter be read, I have brought myself to write them.
+@272  = ~Словом высказать нельзя
+Всю любовь к любимой.
+Ветер движется, скользя,
+Тихий и незримый.
+
+Я сказал, я все сказал,
+Что в душе таилось.
+Ах, любовь моя в слезах,
+В страхе удалилась.
+
+А мгновение спустя
+Путник, шедший мимо,
+Тихо, вкрадчиво, шутя
+Завладел любимой.~
+@273  = ~Декамерон~ //from "The Decameron" by Giovanni Boccaccio
+@274  = ~Обворожительнейшие дамы! Зная ваше врожденное мягкосердечие, я убежден, что предисловие к моему труду покажется вам тяжелым и печальным, ибо таково воспоминание, с которого оно начинается, — воспоминание о последнем чумном поветрии, бедственном и прискорбном для всех, кто его наблюдал и кого оно так или иначе коснулось. Не подумайте, однако ж, что вся книга состоит из рыданий и стонов, — я вовсе не намерен отбивать у вас охоту читать дальше. Страшное начало — это для вас все равно, что для путников высокая, крутая гора, за которой открывается роскошная, приветная долина, тем больше отрады являющая взорам путников, чем тяжелее достались им восхожденье и спуск. Подобно как бурная радость сменяется горем, так же точно вслед за испытаньями приходит веселье. Минет краткая эта невзгода (краткая потому, что я описываю ее в немногих словах), и настанет блаженная пора утех, — я вам их предрекаю, а то после такого вступления вряд ли можно было бы их ожидать. Откровенно говоря, если б у меня была возможность более удобным путем, а не по крутой тропинке, привести вас к желанной цели, я бы охотно это сделал, но если не начать с воспоминания, то будет непонятно, как произошло то, о чем вам предстоит прочесть, — словом, мне без него не обойтись.
 
 (Корешок этой книги выглядит толще обычного.)~
-@275  = ~As often, most gracious ladies, as, taking thought in myself, I mind me how very pitying you are all by nature, so often do I recognize that this present work will, to your thinking, have a grievous and a weariful beginning, inasmuch as the dolorous remembrance of the late pestiferous mortality, which it beareth on its forefront, is universally irksome to all who saw or otherwise knew it. But I would not therefore have this affright you from reading further, as if in the reading you were still to fare among sighs and tears. Let this grisly beginning be none other to you than is to wayfarers a rugged and steep mountain, beyond which is situate a most fair and delightful plain, which latter cometh so much the pleasanter to them as the greater was the hardship of the ascent and the descent; for, like as dolour occupieth the extreme of gladness, even so are miseries determined by imminent joyance. This brief annoy (I say brief, inasmuch as it is contained in few pages) is straightway succeeded by the pleasance and delight which I have already promised you and which, belike, were it not aforesaid, might not be looked for from such a beginning. And in truth, could I fairly have availed to bring you to my desire otherwise than by so rugged a path as this will be I had gladly done it; but being in a manner constrained thereto, for that, without this reminiscence of our past miseries, it might not be shown what was the occasion of the coming about of the things that will hereafter be read, I have brought myself to write them.~
+@275  = ~Обворожительнейшие дамы! Зная ваше врожденное мягкосердечие, я убежден, что предисловие к моему труду покажется вам тяжелым и печальным, ибо таково воспоминание, с которого оно начинается, — воспоминание о последнем чумном поветрии, бедственном и прискорбном для всех, кто его наблюдал и кого оно так или иначе коснулось. Не подумайте, однако ж, что вся книга состоит из рыданий и стонов, — я вовсе не намерен отбивать у вас охоту читать дальше. Страшное начало — это для вас все равно, что для путников высокая, крутая гора, за которой открывается роскошная, приветная долина, тем больше отрады являющая взорам путников, чем тяжелее достались им восхожденье и спуск. Подобно как бурная радость сменяется горем, так же точно вслед за испытаньями приходит веселье. Минет краткая эта невзгода (краткая потому, что я описываю ее в немногих словах), и настанет блаженная пора утех, — я вам их предрекаю, а то после такого вступления вряд ли можно было бы их ожидать. Откровенно говоря, если б у меня была возможность более удобным путем, а не по крутой тропинке, привести вас к желанной цели, я бы охотно это сделал, но если не начать с воспоминания, то будет непонятно, как произошло то, о чем вам предстоит прочесть, — словом, мне без него не обойтись.~
 @276  = ~Королева фей~ //"The Faerie Queene": by Edmund Spenser
 @277  = ~Наряд пастуший сбрасываю с плеч;
 Угодно ныне музе-чаровнице
@@ -842,7 +898,7 @@ E'en from my heart the strings do break.~
 Чтоб мне примкнуть к священной веренице
 Тех, кто привержен думам и трудам;
 Любви и доблести я должное воздам.~
-@279  = ~To the Virgins~ //"To the Virgins, to Make Much of Time" by Robert Herrick
+@279  = ~Срывайте розы поскорей~ //"To the Virgins, to Make Much of Time" by Robert Herrick
 @280  = ~Срывайте розы поскорей,
 Подвластно всё старенью,
 Цветы, что ныне всех милей,
@@ -961,14 +1017,26 @@ E'en from my heart the strings do break.~
 @285  = ~Из корешка книги выпало письмо.~
 @286  = ~Из корешка кники выпали письмо и кольцо.~
 @287  = ~Обручальное кольцо~
-@288  = ~This is the engagement ring that Camryn sent to Tamah with one of his hidden letters.~
-@289  = ~Camryn's Ring~
-@290  = ~This ring was the property of Camryn, the Master Illuminator and Scribe at Candlekeep. He loved learning and lore and was well-versed in the history of many people, places, and things. He gave this Ring of the Scholars to <CHARNAME> as a final parting gift when he finally left Candlekeep.
+@288  = ~Это обручальное колько, которое Кэмрин отправил Тамах вместе с одним из своих скрытых писем.~
+@289  = ~Кольцо Кэмрина~
+@290  = ~Это кольцо принадлежало Кэмрину, главному иллюстратору и писцу Кендлкипа. Он любил чтение и историю, и многое знал о различных личностях, местах и вещах. <CHARNAME> получил это Кольцо Ученого, когда Кэмрин в итоге ушел из Кендлкипа.
 
-STATISTICS:
-+1 to intelligence
-+5 to Lore~
-@291  = ~Dispero~
+ПАРАМЕТРЫ:
+
+Особенности при экипировке:
+ - Интеллект: +1
+ - Знание легенд: +5
+ 
+Вес: 0~ ~Это кольцо принадлежало Кэмрину, главному иллюстратору и писцу Кендлкипа. Он любил чтение и историю, и многое знал о различных личностях, местах и вещах. <CHARNAME> получила это Кольцо Ученого, когда Кэмрин в итоге ушел из Кендлкипа.
+
+ПАРАМЕТРЫ:
+
+Особенности при экипировке:
+ - Интеллект: +1
+ - Знание легенд: +5
+ 
+Вес: 0~
+@291  = ~Дисперо~
 
 /*
 @292  = 
@@ -986,4 +1054,6 @@ STATISTICS:
 /* Journal entry for Scar's Return */
 @10000 = ~Тело Скара
 
-I found Scar's vase in a chandler's store caled "Donnerjan's Second-Hand Shop" at Baldur's Gate Carnival! I should ask the vendor where he got it from. I know this vase was precious to Scar. I saw it when visiting his private quarters.~
+Я нашел вазу Скара в магазине подержанных товаров Доннерджана на карнавале Врат Балдура! Нужно расспросить торговца, где он ее взял. Я знаю, что эта ваза была важна для Скара. Я видел ее, когда был в его покоях.~ ~Тело Скара
+
+Я нашла вазу Скара в магазине подержанных товаров Доннерджана на карнавале Врат Балдура! Нужно расспросить торговца, где он ее взял. Я знаю, что эта ваза была важна для Скара. Я видела ее, когда была в его покоях.~
